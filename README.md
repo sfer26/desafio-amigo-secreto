@@ -22,6 +22,10 @@ A lógica do projeto foi executada pensando no fluxo de embaralhamento e sorteio
 
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador de preferência
+
+> [!TIP]
+> Você pode também acessar o deploy da aplicação web aqui [Aplicação Web Desafio-AmigoSecreto](https://sfer26.github.io/desafio-amigo-secreto/)
+
 <br/>
 
 ## **1. Estrutura Inicial e Adição de Participantes**
