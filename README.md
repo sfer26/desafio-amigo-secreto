@@ -16,6 +16,7 @@ Este repositório documenta o processo de criação de uma aplicação web inter
 A lógica do projeto foi executada pensando no fluxo de embaralhamento e sorteio que acontece na 'vida real' em amigo secreto de natal da família, firma, etc.
 
 >  Você sorteia para ser sua dupla de troca de presentes e não ocorre repetição de nomes já que, assim que o papel é retirado da urna, não tem como ser sorteado novamente
+<br/>
 
 ## 🚀 Como Executar
 
